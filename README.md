@@ -20,8 +20,7 @@ Analysis completed using SUMIF, COUNTIF, and SUMIFS functions to break down sale
 - SUM, MIN, MAX, AVERAGE, COUNT, COUNTA: Used for overall business statistics
 - 5. Visual representation of the data used in image referencing table above
 
-
-     Conclusion
+Conclusion
 Base on my analysis, 
 Abdul  has  6 transactions totaling ₦60,940. Tola also has 6 transactions but leads with ₦82,720 revenue.
 This suggest that  Abdul closes deals frequently but with lower average sale value: ₦10,156 per transaction vs Tola's ₦13,786.  Abdul targets smaller clients or sells lower priced items, while Tola focuses on higher value deals. Abdul is busy but less efficient per sale.
